@@ -1,0 +1,6 @@
+{
+  "name": "Clustering & Commercial Strategy Lab",
+  "description": "Plataforma analítica integral de segmentación mediante Machine Learning (Clustering) e inteligencia comercial accionable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
